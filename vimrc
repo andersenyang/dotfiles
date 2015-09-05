@@ -9,7 +9,7 @@ set ignorecase
 set smartcase
 
 set autoindent
-set shiftwidth=8
+set shiftwidth=4
 set smartindent
 set smarttab
 set softtabstop=4
