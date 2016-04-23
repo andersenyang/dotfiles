@@ -1,6 +1,6 @@
 ########## Variables
 
-dir=~/dotfiles                    # dotfiles directory
+dir=$(pwd)                  # dotfiles directory
 olddir=~/.dotfiles_old             # old dotfiles backup directory
 files="vimrc tmux.conf bash_profile git-completion.bash"        # list of files/folders to symlink in homedir
 
