@@ -7,7 +7,7 @@ Also download:
   - Alfred: https://www.alfredapp.com/
   - iTerm2: https://www.iterm2.com/downloads.html
   - ctrl-p: https://github.com/ctrlpvim/ctrlp.vim
+  - vim-jedi: https://github.com/davidhalter/jedi-vim
   - homebrew: http://brew.sh/
-  - tmux: https://tmux.github.io/
-  - ? vim-jedi: https://github.com/davidhalter/jedi-vim
+  - tmux: install tmux (and libevent which is required) with bomebrew
 
