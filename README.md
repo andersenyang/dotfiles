@@ -9,5 +9,5 @@ Also download:
   - ctrl-p: https://github.com/ctrlpvim/ctrlp.vim
   - vim-jedi: https://github.com/davidhalter/jedi-vim
   - homebrew: http://brew.sh/
-  - tmux: install tmux (and libevent which is required) with bomebrew
+  - tmux: install tmux (and libevent which is required) with homebrew
 
