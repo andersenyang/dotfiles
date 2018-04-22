@@ -1,6 +1,7 @@
 execute pathogen#infect()
 syntax on
 
+set paste
 set number
 set showmatch
 set visualbell
